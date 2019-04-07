@@ -13,3 +13,6 @@ I did change it!!
 Adding a whole bunch 
 of new lines 
 here at the end
+
+Adding lines here to test adding and committing the file at once
+
